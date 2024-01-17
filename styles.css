@@ -1,0 +1,24 @@
+.first-heading{
+  color: blue;
+  font-size: 30px;
+  text-align: center;
+}
+
+.first-paragraph {
+  color: blue;
+  font-size: 20px;
+  text-align: center;
+}
+
+.first-button {
+  width: 120px;
+  height: 30px;
+  background-color: blue;
+  color: aqua;
+  border-radius: 10px;
+  margin-left: 700px;
+}
+
+.first-paragraph-button {
+  text-align: center;
+}
