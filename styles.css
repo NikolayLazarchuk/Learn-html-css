@@ -1,3 +1,15 @@
+body{
+  padding: 10px;
+}
+.tag {
+  display: inline-block;
+  width: 90px;
+  font-weight: 900;
+  font-size: 25px;
+  background-color: rgb(228, 227, 227);
+
+}
+
 .first-heading{
   color: blue;
   font-size: 30px;
@@ -21,4 +33,9 @@
 
 .first-paragraph-button {
   text-align: center;
+}
+
+.first-paragraph-h {
+  text-align: center;
+  font-size: 30px;
 }
