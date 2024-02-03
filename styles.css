@@ -1,6 +1,9 @@
 body{
   padding: 10px;
 }
+section{
+  margin: 20px;
+}
 .tag {
   display: inline-block;
   width: 90px;
@@ -35,7 +38,7 @@ body{
   text-align: center;
 }
 
-.first-paragraph-h {
+.heading-h2 {
   text-align: center;
   font-size: 30px;
 }
@@ -129,4 +132,24 @@ body{
   border-width: 2px;
   border-color: black;
   border-style: solid;
+}
+
+.footer-container{
+  width: 100%;
+  height: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: gray;
+}
+
+.section-color-link-block{
+  background-color: rgb(91, 137, 236);
+  width: 80px;
+  height: 80px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.color-div{
+  text-decoration: none;
 }
